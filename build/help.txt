@@ -1,0 +1,21 @@
+
+---------------------------------------------
+
+Input:(Less then 10 characters)
+
+あ
+Input:'a' or 'A' [enter]
+---!!Correct!!---
+
+-help  help infomation
+       查看帮助
+
+-exit  exit the program
+       退出程序
+
+?      show the answer
+       查看答案
+			ADONG.H 2020/4/15
+
+---------------------------------------------
+
